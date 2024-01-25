@@ -1,3 +1,3 @@
 # my-second-project
-this is my second project on github.
-I am learning github
+<i>this is my second project on github.<br>
+I am learning github.</i>
